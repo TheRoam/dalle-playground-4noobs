@@ -40,6 +40,9 @@ DALL-E Mega is substantially more capable than DALL-E Mini and therefore generat
 
 **_3. launch.sh: launches backend and frontend scripts in the background_**
 
+
+**_So, basically, install and double click launch.sh_**
+
 ## Acknowledgements
 
 This repo is a full-stack flavour of [Boris Dayma's](https://github.com/borisdayma) DALL-E Mini
