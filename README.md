@@ -31,6 +31,12 @@ Follow these steps in case you'd like to clone and run the DALL-E playground loc
 ## Using DALL-E Mega
 DALL-E Mega is substantially more capable than DALL-E Mini and therefore generates higher fidelity images. If you have the computing power--either through a Google Colab Pro+ subcription or by having a strong local machine, select the DALL-E Mega model in the colab notebook or run the backend with a `Mega` or `Mega_full` parameter, e.g. `python dalle-playground/backend/app.py --port 8000 --model_version mega`
 
+## Using the launcher scripts
+**_This fork includes three launchers to run Dalle-playground once installed_**
+**_1. backend.sh: launches the backend in a new terminal_**
+**_2. frontend.sh: launches the frontend in a new terminal_**
+**_3. launch.sh: launches backend and frontend scripts in the background_**
+
 ## Acknowledgements
 
 This repo is a full-stack flavour of [Boris Dayma's](https://github.com/borisdayma) DALL-E Mini
