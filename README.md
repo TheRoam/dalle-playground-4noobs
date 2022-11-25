@@ -1,3 +1,11 @@
+<p>This is a fork of the original dalle-playground by saharmor<br>
+https://github.com/saharmor/dalle-playground/
+  <br>Fork reasons:
+  <br>-Adding bash launch scripts for Linux
+  <br>-Extending installation instructions (expanding on required dependencies)
+  <br>
+  <br>From here, the main changes in this README are in <i><b>italic bold</b></i>
+  </p>
 <p align="center">
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/woman-artist_1f469-200d-1f3a8.png" width="60" alt="Dali">
   <h2 align="center">DALL-E Playground</h2>
@@ -33,7 +41,7 @@ Follow these steps in case you'd like to clone and run the DALL-E playground loc
 1. Clone or fork this repository
 2. Create a virtual environment `cd backend && python3 -m venv ENV_NAME`
 3. Install requirements `pip install -r requirements.txt`
-4. Make sure you have pytorch and its dependencies
+5. Make sure you have pytorch and its dependencies
    installed _[Installation guide](https://pytorch.org/get-started/locally/)_
 5. Run web server `python3 app.py --port 8080 --model_version mini` (you can change from 8080 to your own port)
 6. In a different terminal, install frontend's modules `cd interface && npm install` and run
