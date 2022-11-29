@@ -1,3 +1,13 @@
+<p>This is a fork of the original dalle-playground by saharmor<br>
+https://github.com/saharmor/dalle-playground/
+<br><b>The original repository was updated in Nov 2022 to use Stable Diffusion rather than Dalle-Mini</b><br>This fork will be kept using Dalle-Mini
+  <br>Fork reasons:
+  <br>-Adding bash launch scripts for Linux
+  <br>-Extending installation instructions (expanding on required dependencies)
+  <br>
+  <br>From here, the main changes in this README are in <i><b>italic bold</b></i>
+  </p>
+
 <p align="center">
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/woman-artist_1f469-200d-1f3a8.png" width="60" alt="Dali">
   <h2 align="center">Text-to-image Playground (fka DALL-E Playground)</h2>
@@ -63,6 +73,19 @@ WSL2 installs are fairly bare bones, expect to install packages like `npm`, `pyt
 4. Copy backend's url from step 2 and paste it in the backend's url input within the web app.
    
    webapp at `http://localhost:3000/dalle-playground`
+
+
+## Using the launcher scripts
+**_This fork includes three launchers to run Dalle-playground with one-click once installed:_**
+
+**_1. backend.sh: launches the backend in a new terminal_**
+
+**_2. frontend.sh: launches the frontend in a new terminal_**
+
+**_3. launch.sh: launches backend and frontend scripts in the background_**
+
+
+**_So, basically, install and double click launch.sh_**
 
 ## Acknowledgements
 The original reposistory used  @borisdayma's DALL-E Mini.
