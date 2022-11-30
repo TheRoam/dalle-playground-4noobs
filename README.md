@@ -30,7 +30,7 @@ OpenAI's [DALL-E](https://openai.com/blog/dall-e/), based on [DALL-E Mini](https
 
   **_3. source dalleP/bin/activate_**
 
-  **_(see the environment name appears in terminal now)__**
+  **_(see the environment name appears in terminal now)_**
 
   **_4. Install required python modules_**
 
