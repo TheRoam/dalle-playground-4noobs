@@ -1,3 +1,4 @@
+_## AI Image Generation everyone can run_
 <p>This is a fork of the original <b>dalle-playground</b> by saharmor<br>
 https://github.com/saharmor/dalle-playground/
 <br><b>The original repository was updated in Nov 2022 to use Stable Diffusion rather than Dalle-Mini</b>
