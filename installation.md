@@ -60,7 +60,9 @@ _* Running on http://192.168.1.48:8080_
 
 cd dalle-playground/interface
 
-**7. install frontend modules install npm**
+**7. install frontend modules**
+
+_npm install_
 
 (if you dont have npm installed go _sudo apt-get install npm_)
 
