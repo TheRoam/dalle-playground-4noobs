@@ -24,23 +24,23 @@ OpenAI's [DALL-E](https://openai.com/blog/dall-e/), based on [DALL-E Mini](https
 
 **_- Create a virtual environment (changes to python will only affect dalle-playground)_**
 
-**_  1. sudo apt-get install python3.X-venv_**
+  **_1. sudo apt-get install python3.X-venv_**
 
-**_  2. python3 -m venv dalleP_**
+  **_2. python3 -m venv dalleP_**
 
-**_  3. source dalleP/bin/activate_**
+  **_3. source dalleP/bin/activate_**
 
-**_ (see the environment name appears in terminal now)__**
+  **_(see the environment name appears in terminal now)__**
 
-**_  4. Install required python modules_**
+  **_4. Install required python modules_**
 
-**_  pip3 install -r /backend/requirements.txt_**
+  **_pip3 install -r /backend/requirements.txt_**
 
-**_  5. Make sure you have pytorch installed_**
+  **_5. Make sure you have pytorch installed_**
 
-**_  pip3 install torch_**
+  **_pip3 install torch_**
 
-**_  6. Run dalle-playground using the launcher scripts_**
+  **_6. Run dalle-playground using the launcher scripts_**
 
 ## Using the launcher scripts
 **_This fork includes three launchers to run Dalle-playground with one-click once installed:_**
