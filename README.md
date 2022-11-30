@@ -57,11 +57,11 @@ _npm install_
 ## Using the launcher scripts
 **_This fork includes three launchers to run Dalle-playground with one-click once installed:_**
 
-**_1. backend.sh: launches the backend in a new terminal_**
+_1. backend.sh: launches the backend in a new terminal_
 
-**_2. frontend.sh: launches the frontend in a new terminal_**
+_2. frontend.sh: launches the frontend in a new terminal_
 
-**_3. launch.sh: launches backend and frontend scripts in one single terminal_**
+_3. launch.sh: launches backend and frontend scripts in one single terminal_
 
 
 **_So, basically: install and double click launch.sh_**
