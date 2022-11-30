@@ -66,6 +66,9 @@ _3. launch.sh: launches backend and frontend scripts in one single terminal_
 
 **_So, basically: install and double click launch.sh_**
 
+Further installation details here:
+https://github.com/TheRoam/dalle-playground-localLinux/blob/dalleMini/installation.md
+
 ## Acknowledgements
 
 This repo is a full-stack flavour of [Boris Dayma's](https://github.com/borisdayma) DALL-E Mini
