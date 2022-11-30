@@ -41,10 +41,10 @@ DALL-E Mega is substantially more capable than DALL-E Mini and therefore generat
 
 **_2. frontend.sh: launches the frontend in a new terminal_**
 
-**_3. launch.sh: launches backend and frontend scripts in the background_**
+**_3. launch.sh: launches backend and frontend scripts in one single terminal_**
 
 
-**_So, basically, install and double click launch.sh_**
+**_So, basically: install and double click launch.sh_**
 
 ## Acknowledgements
 
