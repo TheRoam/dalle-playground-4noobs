@@ -20,11 +20,15 @@ OpenAI's [DALL-E](https://openai.com/blog/dall-e/), based on [DALL-E Mini](https
 ## _Requirements_
 **_- Install python3.X_**
 
+**_sudo apt-get install python3.X_**
+
 **_- Download and extract this repository_**
 
-**_- Create a virtual environment (changes to python will only affect dalle-playground)_**
+**_- Create a virtual environment in "backend" folder(changes to python will only affect dalle-playground)_**
 
-  **_1. sudo apt-get install python3.X-venv_**
+  **_0. sudo apt-get install python3.X-venv (just check "venv" is installed)_**
+  
+  **_1. cd backend_**
 
   **_2. python3 -m venv dalleP_**
 
@@ -34,7 +38,7 @@ OpenAI's [DALL-E](https://openai.com/blog/dall-e/), based on [DALL-E Mini](https
 
   **_4. Install required python modules_**
 
-  **_pip3 install -r /backend/requirements.txt_**
+  **_pip3 install -r requirements.txt_**
 
   **_5. Make sure you have pytorch installed_**
 
