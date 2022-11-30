@@ -1,7 +1,8 @@
-<p>This is a fork of the original dalle-playground by saharmor<br>
+<p>This is a fork of the original <b>dalle-playground</b> by saharmor<br>
 https://github.com/saharmor/dalle-playground/
 <br><b>The original repository was updated in Nov 2022 to use Stable Diffusion rather than Dalle-Mini</b>
-<br>This fork (under dalleMini branch) will be kept using Dalle-Mini which is usable for low resources PCs
+<br>This fork (under <i>dalleMini</i> branch) will be kept using Dalle-Mini which is usable for low resources PCs
+<br>The <i>main</i> branch is the updated repository with the Stable Diffuse model
   <br>Fork changes:
   <br>-Adding bash launch scripts for Linux
   <br>-Extending installation instructions (expanding on required dependencies)
