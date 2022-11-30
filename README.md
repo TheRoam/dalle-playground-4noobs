@@ -1,11 +1,6 @@
 <p>This is a fork of the original dalle-playground by saharmor<br>
 https://github.com/saharmor/dalle-playground/
-<br><b>The original repository was updated in Nov 2022 to use Stable Diffusion rather than Dalle-Mini</b><br>You can use branch dalleMini to use the previous Dalle-Mini version
-  <br>Fork reasons:
-  <br>-Adding bash launch scripts for Linux
-  <br>-Extending installation instructions (expanding on required dependencies)
-  <br>
-  <br>From here, the main changes in this README are in <i><b>italic bold</b></i>
+<br><b>The original repository was updated in Nov 2022 to use Stable Diffusion rather than Dalle-Mini</b><br>You can use branch <i>dalleMini</i> to use the previous Dalle-Mini version
   </p>
 
 <p align="center">
@@ -73,19 +68,6 @@ WSL2 installs are fairly bare bones, expect to install packages like `npm`, `pyt
 4. Copy backend's url from step 2 and paste it in the backend's url input within the web app.
    
    webapp at `http://localhost:3000/dalle-playground`
-
-
-## Using the launcher scripts
-**_This fork includes three launchers to run Dalle-playground with one-click once installed:_**
-
-**_1. backend.sh: launches the backend in a new terminal_**
-
-**_2. frontend.sh: launches the frontend in a new terminal_**
-
-**_3. launch.sh: launches backend and frontend scripts in the background_**
-
-
-**_So, basically, install and double click launch.sh_**
 
 ## Acknowledgements
 The original reposistory used  @borisdayma's DALL-E Mini.
