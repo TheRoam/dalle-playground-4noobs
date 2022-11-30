@@ -17,22 +17,30 @@ https://github.com/saharmor/dalle-playground/
 A playground for DALL-E enthusiasts to tinker with the open-source version of
 OpenAI's [DALL-E](https://openai.com/blog/dall-e/), based on [DALL-E Mini](https://github.com/borisdayma/dalle-mini).
 
-## Local development
+## _Requirements_
+**_- Install python3.X_**
 
-Follow these steps in case you'd like to clone and run the DALL-E playground locally:
+**_- Download and extract this repository_**
 
-1. Clone or fork this repository
-2. Create a virtual environment `cd backend && python3 -m venv ENV_NAME`
-3. Install requirements `pip install -r requirements.txt`
-5. Make sure you have pytorch and its dependencies
-   installed _[Installation guide](https://pytorch.org/get-started/locally/)_
-5. Run web server `python3 app.py --port 8080 --model_version mini` (you can change from 8080 to your own port)
-6. In a different terminal, install frontend's modules `cd interface && npm install` and run
-   it `npm start`
-7. Copy backend's url from step 5 and paste it in the backend's url input within the web app
+**_- Create a virtual environment (changes to python will only affect dalle-playground)_**
 
-## Using DALL-E Mega
-DALL-E Mega is substantially more capable than DALL-E Mini and therefore generates higher fidelity images. If you have the computing power--either through a Google Colab Pro+ subcription or by having a strong local machine, select the DALL-E Mega model in the colab notebook or run the backend with a `Mega` or `Mega_full` parameter, e.g. `python dalle-playground/backend/app.py --port 8000 --model_version mega`
+**_  1. sudo apt-get install python3.X-venv_**
+
+**_  2. python3 -m venv dalleP_**
+
+**_  3. source dalleP/bin/activate_**
+
+**_ (see the environment name appears in terminal now)__**
+
+**_  4. Install required python modules_**
+
+**_  pip3 install -r /backend/requirements.txt_**
+
+**_  5. Make sure you have pytorch installed_**
+
+**_  pip3 install torch_**
+
+**_  6. Run dalle-playground using the launcher scripts_**
 
 ## Using the launcher scripts
 **_This fork includes three launchers to run Dalle-playground with one-click once installed:_**
