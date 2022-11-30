@@ -6,8 +6,6 @@ https://github.com/saharmor/dalle-playground/
   <br>Fork changes:
   <br>-Adding bash launch scripts for Linux
   <br>-Extending installation instructions (expanding on required dependencies)
-  <br>
-  <br>From here, the main changes in this README are in <i><b>italic bold</b></i>
   </p>
 <p align="center">
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/woman-artist_1f469-200d-1f3a8.png" width="60" alt="Dali">
@@ -20,39 +18,39 @@ OpenAI's [DALL-E](https://openai.com/blog/dall-e/), based on [DALL-E Mini](https
 ## _Requirements_
 **_- Install python3.X_**
 
-**_sudo apt-get install python3.X_**
+_sudo apt-get install python3.X_
 
 **_- Download and extract this repository_**
 
 **_- Create a virtual environment in "backend" folder(changes to python will only affect dalle-playground)_**
 
-  **_0. sudo apt-get install python3.X-venv (just check "venv" is installed)_**
+_0. sudo apt-get install python3.X-venv (just check "venv" is installed)_
   
-  **_1. cd backend_**
+  _1. cd backend_
 
-  **_2. python3 -m venv dalleP_**
+  _2. python3 -m venv dalleP_
 
-  **_3. source dalleP/bin/activate_**
+  _3. source dalleP/bin/activate_
 
-  **_(see the environment name appears in terminal now)_**
+_(see the environment name appears in terminal now)_
 
-  **_4. Install required python modules_**
+_4. Install required python modules_
 
-  **_pip3 install -r requirements.txt_**
+_pip3 install -r requirements.txt_
 
-  **_5. Make sure you have pytorch installed_**
+_5. Make sure you have pytorch installed_
 
-  **_pip3 install torch_**
+_pip3 install torch_
 
-**_- Install npm_**
+_- Install npm_
 
-**_sudo apt-get install npm_**
+_sudo apt-get install npm_
 
 **_- Install frontend server_**
 
-**_cd interface_**
+_cd interface_
 
-**_npm install_**
+_npm install_
 
 **_- Run dalle-playground using the launcher scripts_**
 
