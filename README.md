@@ -44,7 +44,17 @@ OpenAI's [DALL-E](https://openai.com/blog/dall-e/), based on [DALL-E Mini](https
 
   **_pip3 install torch_**
 
-  **_6. Run dalle-playground using the launcher scripts_**
+**_7. Install npm_**
+
+**_sudo apt-get install npm_**
+
+**_8. Install frontend server_**
+
+**_cd interface_**
+
+**_npm install_**
+
+**_6. Run dalle-playground using the launcher scripts_**
 
 ## Using the launcher scripts
 **_This fork includes three launchers to run Dalle-playground with one-click once installed:_**
