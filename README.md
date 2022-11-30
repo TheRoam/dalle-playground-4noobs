@@ -1,6 +1,6 @@
 <p>This is a fork of the original dalle-playground by saharmor<br>
 https://github.com/saharmor/dalle-playground/
-<br><b>The original repository was updated in Nov 2022 to use Stable Diffusion rather than Dalle-Mini</b><br>You can use branch <i>dalleMini</i> to use the previous Dalle-Mini version
+<br><b>The original repository was updated in Nov 2022 to use Stable Diffusion rather than Dalle-Mini</b><br>You can use my branch <i>dalleMini</i> to use the previous Dalle-Mini version
   </p>
 
 <p align="center">
