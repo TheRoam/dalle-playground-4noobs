@@ -72,5 +72,8 @@ https://github.com/TheRoam/dalle-playground-localLinux/blob/dalleMini/installati
 
 ## Acknowledgements
 
-This repo is a full-stack flavour of [Boris Dayma's](https://github.com/borisdayma) DALL-E Mini
+Dalle-playground was developed by saharmor and updated on his github:
+https://github.com/saharmor/dalle-playground/
+
+His repo is a full-stack flavour of [Boris Dayma's](https://github.com/borisdayma) DALL-E Mini
 repository. 
