@@ -1,36 +1,36 @@
 **1. clone repository**
 
-git clone https://github.com/saharmor/dalle-playground
+>> _git clone https://github.com/saharmor/dalle-playground _
 
 this will create folder dalle-playground
 
 **2. create a virtual environment in backend folder for python to run there**
 
-cd dalle-playground/backend
+>> _cd dalle-playground/backend_
 
-python -m venv dalleP
+>> _python -m venv dalleP_
 
-source dalleP/bin/activate
+>> _source dalleP/bin/activate_
 
 (see that the terminal now refers to this environment)
 
 (if you dont have venv installed just run
 
-sudo apt-get install pythonX-venv
+>> _sudo apt-get install pythonX-venv_
 
-check your version with python -V or python3 -V)
+(you can check your python version with >> _python -V_ or >> _python3 -V_)
 
 **3. install listed requirements**
 
-pip install -r requirements.txt
+>> _pip install -r requirements.txt_
 
 **4. pytorch is also required if not present**
 
-pip install torch
+>> _pip install torch_
 
 **5. now run the local backend server**
 
-python app.py --port 8080 --model_version mini
+>> _python3 app.py --port 8080 --model_version mini_
 
 you'll see a start message that lasts up to 2 minutes loading different things. Finally you'll read:
 
@@ -58,17 +58,17 @@ _* Running on http://192.168.1.48:8080_
 
 **6. Now move to interface folder in a new terminal**
 
-cd dalle-playground/interface
+>> _cd dalle-playground/interface_
 
 **7. install frontend modules**
 
-_npm install_
+>> _npm install_
 
 (if you dont have npm installed go _sudo apt-get install npm_)
 
 **8. and run the frontend server**
 
-npm start
+>> _npm start_
 
 **9. A local webpage will launch with DallE Playground.**
 
