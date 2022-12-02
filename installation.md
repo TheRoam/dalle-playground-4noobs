@@ -80,11 +80,11 @@ I have 8GB RAM and 3GB VRAM and it took about 4 minutes to create 1 picture. 10 
 
 You should receive a new output message:
 
-_INFO:werkzeug:192.168.1.48 - - [24/Nov/2022 21:13:04] "OPTIONS /dalle HTTP/1.1" 200 -_
-
-_Created 1 images from text prompt [underwater volcano]_
-
-_INFO:werkzeug:192.168.1.48 - - [24/Nov/2022 21:17:42] "POST /dalle HTTP/1.1" 200 -_
+>_INFO:werkzeug:192.168.1.48 - - [24/Nov/2022 21:13:04] "OPTIONS /dalle HTTP/1.1" 200 -_
+>
+>_Created 1 images from text prompt [underwater volcano]_
+>
+>_INFO:werkzeug:192.168.1.48 - - [24/Nov/2022 21:17:42] "POST /dalle HTTP/1.1" 200 -_
 
 **11 Cancel anytime with Ctrl+C on each console**
 
